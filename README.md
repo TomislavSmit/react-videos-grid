@@ -15,4 +15,5 @@ Ensure you have the following installed on your machine:
 1. git clone https://github.com/TomislavSmit/videos-grid.git
 2. npm install
 3. npx json-server db.json --port 3000
-4. npm run dev
+4. create .env file and copy contents of .env.example to .env
+5. npm run dev
